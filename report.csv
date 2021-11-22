@@ -1,0 +1,6 @@
+Host Name,Type,Ip Address
+host1,PC,192.168.1.9
+host2,TV,192.168.1.13
+host3,Printer,192.168.1.23
+host4,Tablet,192.168.1.34
+host5,Phone,192.168.1.41
